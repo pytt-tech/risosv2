@@ -9,3 +9,4 @@ updates will be formatted as such:
 0.0.1:micro update(singular bug fixes, no new functions)
 0.1.0:minor update(bug fixes,new functions)
 1.0.0:major update:(redesign, bug fixes, new look(maybe?), significantly new functions)
+note:this project has been put off until the winter. do not expect very much until then
