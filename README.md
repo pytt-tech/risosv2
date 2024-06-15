@@ -6,7 +6,10 @@ this is the plans for the updated version:
 3.wayland backend with custom gui
 this entire project is being rethought.
 updates will be formatted as such:
-0.0.1:micro update(singular bug fixes, no new functions)
-0.1.0:minor update(bug fixes,new functions)
-1.0.0:major update:(redesign, bug fixes, new look(maybe?), significantly new functions)
-note:this project has been put off until the winter. do not expect very much until then
+the project has been reinitiated in development!
+revisions have been rethought.
+heres the new functions:
+
+0.0.1(micro update): this will be each sub development and minor bug fix
+0.1.0(alpha releases): this will be the mainstream releases as well as major bug fixes... expect lots of bugs in these
+1.0.0(beta releases): this will be the mainstream beta release... expect fewer bugs in these
